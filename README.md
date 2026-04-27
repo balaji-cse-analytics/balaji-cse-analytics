@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Balaji Singh
+# 👋 Hi, I'm Balaji
 
 🎓 Aspiring Software Developer  
 💻 Currently learning Data Structures & Algorithms  
