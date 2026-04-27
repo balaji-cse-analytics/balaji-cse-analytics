@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Balaji Singh
 
-<!--
-**balaji-the-great/balaji-the-great** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Software Developer  
+💻 Currently learning Data Structures & Algorithms  
+📊 Data Analytics Enthusiast (Tableau)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Doing
+- Solving LeetCode problems daily  
+- Building my GitHub portfolio  
+- Improving problem-solving skills  
+
+---
+
+## 📂 Featured Projects
+- 🔗 LeetCode Solutions: https://github.com/balaji-the-great/Leetcode-solutions
+
+---
+
+## 🧠 Skills
+- C++
+- Data Structures & Algorithms
+- SQL
+- Tableau
+
+---
+
+## 📈 GitHub Stats
+![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=balaji-the-great&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=balaji-the-great&theme=tokyonight)
+
+---
+
+## 🎯 Goal
+Become a strong problem solver and crack top tech interviews.
+
+---
+
+## 📫 Connect with me
+- GitHub: https://github.com/balaji-the-great
