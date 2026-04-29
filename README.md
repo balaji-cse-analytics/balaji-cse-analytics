@@ -60,6 +60,6 @@ Crack top tech interviews and become a strong developer 🚀
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/your-link
+
+- LinkedIn: https://www.linkedin.com/in/balaji-cse/
 - GitHub: https://github.com/balaji-the-great
-- 
