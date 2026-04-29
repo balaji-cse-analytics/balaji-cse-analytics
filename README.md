@@ -27,7 +27,7 @@ https://github.com/balaji-the-great/Leetcode-solutions
 - Organized by Easy / Medium / Hard  
 
 🧠 **CKD Predictor (Machine Learning Project)**  
-https://github.com/YOUR-USERNAME/CKD-Predictor  
+https://github.com/balaji-the-great/CKD-Predictor  
 - Predicts Chronic Kidney Disease using ML  
 - Built using Python, Pandas, Scikit-learn  
 
