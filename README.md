@@ -56,3 +56,10 @@ https://github.com/YOUR-USERNAME/CKD-Predictor
 
 ## 🎯 Goal
 Crack top tech interviews and become a strong developer 🚀
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/your-link
+- GitHub: https://github.com/balaji-the-great
+- 
