@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Balaji
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Aspiring+Software+Developer;DSA+Learner;Future+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Future+Engineer)
 
 ---
 
 ## 🚀 About Me
-💻 Aspiring Software Developer  
+💻 Aspiring Data Analyst & ML Engineer  
 🧠 Learning Data Structures & Algorithms  
-📊 Data Analytics & Machine Learning Enthusiast  
+📊 Passionate about Data Analytics & Machine Learning  
 
 ---
 
@@ -21,45 +21,37 @@
 
 ## 📂 Featured Projects
 
-🔗 **LeetCode Solutions**  
-https://github.com/balaji-the-great/Leetcode-solutions  
-- Solving DSA problems daily  
-- Organized by Easy / Medium / Hard  
+📊 **Retail Sales Forecasting (PySpark ML Project)**  
+https://github.com/balaji-cse-analytics/retail-sales-forecast  
+- Built ML pipeline using Apache Spark  
+- Implemented Linear Regression for forecasting  
+- Created dashboard for business insights  
 
-🧠 **CKD Predictor (Machine Learning Project)**  
-https://github.com/balaji-the-great/ckd-stage-predictor  
-- Predicts Chronic Kidney Disease using ML  
+🧠 **CKD Stage Predictor (Machine Learning Project)**  
+https://github.com/balaji-cse-analytics/ckd-stage-predictor  
+- Multi-class disease prediction model  
 - Built using Python, Pandas, Scikit-learn  
 
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=balaji-the-great&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=balaji-the-great&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-the-great&layout=compact&theme=tokyonight)
+💻 **LeetCode Solutions**  
+https://github.com/balaji-cse-analytics/Leetcode-solutions  
+- Solving DSA problems regularly  
+- Organized by difficulty  
 
 ---
 
 ## 🌱 Currently Learning
 - Data Structures & Algorithms  
-- Problem Solving Patterns  
-- Machine Learning Basics  
-
----
-
-## 📈 Progress
-- LeetCode Problems Solved: 50+  
+- Machine Learning  
+- Data Analytics  
 
 ---
 
 ## 🎯 Goal
-Crack top tech interviews and become a strong developer 🚀
+To become a Data Analyst / ML Engineer and build impactful data-driven solutions 🚀
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/balaji-cse/
-- GitHub: https://github.com/balaji-the-great
+- 🔗 LinkedIn: https://www.linkedin.com/in/balaji-cse/
+- 💻 GitHub: https://github.com/balaji-cse-analytics
