@@ -20,7 +20,9 @@
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=balaji-cse-analytics\&theme=tokyonight)
 
+## 🔥 GitHub Streak
 
+![GitHub Streak](https://streak-stats.demolab.com?user=balaji-cse-analytics&theme=tokyonight&hide_border=true)
 
 ---
 
